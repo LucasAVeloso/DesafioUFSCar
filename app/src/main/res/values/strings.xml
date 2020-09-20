@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Nome</string>
+
+    <string name="cursos">Cursos</string>
+    <string name="filmes">Filmes</string>
+    <string name="series">Séries</string>
+    <string name="favoritos">Favoritos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
